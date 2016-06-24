@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  Copyright (C) 2015 Google Inc. All Rights Reserved.
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+  -->
+<resources>
+    <string name="app_name">ElectroRoute</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Correo</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_register">Registrate!!</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="error_invalid_email">Este correo es invalido</string>
+    <string name="error_invalid_password">La contraseña es muy corta</string>
+    <string name="error_incorrect_password">La contraseña es incorrecta</string>
+    <string name="error_field_required">Debe rellenar este campo</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_maps">Mapa</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="create_place">Desea crear un nuevo lugar?</string>
+    <string name="create_place_title">Crear nuevo sitio</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="crear">Crear</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="description">Descripción</string>
+    <string name="direction">Dirección</string>
+    <string name="site_name">Nombre del sitio</string>
+    <string name="latitude">Latitud</string>
+    <string name="longitude">Longitud</string>
+    <string name="registro">Crea tu cuenta</string>
+    <string name="add_photo">Añadir foto</string>
+
+    <string-array name="site_types_array">
+        <item>Concesionario</item>
+        <item>Punto de recarga</item>
+        <item>Taller</item>
+    </string-array>
+    <string name="title_activity_maps_directions">Map</string>
+
+    <string name="server_client_id">372514237683-t52h2d4547cbgctc558bp9fblbggvcq5.apps.googleusercontent.com </string>
+    <string name="google_api_key">AIzaSyBkt2G5F5vj8ZbGMhN_VHL-3FV5SFZRBC8</string>
+
+</resources>
